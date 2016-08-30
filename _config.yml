@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: sara.mpa13@gmail.com
 copyright_name: sarastanton
 description: > # this means to ignore newlines until "baseurl:"
-  My Adventures in Programming
+  Adventures in Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sarastanton

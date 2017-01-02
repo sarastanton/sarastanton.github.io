@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, World! (Or, Why I'm Here)"
-date:   2017-01-02 07:49:40 +0000
+date:   2017-01-02 02:49:41 -0500
 ---
 
 Hi there! I'm so excited that you're here to share in my adventures in programming!
@@ -21,5 +21,5 @@ But why software development, specifically? A couple of reasons:
 
 * **Endless possibilities.**  It gives me a sense of security to know that I'll be gaining skills that are incredibly in demand right now, and which will open doors for me in ways that I can't even conceive of right now. There are so many directions that a career in programming can go. 
 
-You can follow my adventures in programming right here on my blog! You can also find me at @codename-sara on Twitter.
+You can follow my adventures in programming right here on my blog! You can also find me at @codename_sara on Twitter.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "GLI Gem: Knitpickr"
-date:       2018-02-13 05:47:01 +0000
+title:      "GLI Gem- Knitpickr"
+date:       2018-02-13 00:47:02 -0500
 permalink:  gli_gem_knitpickr
 ---
 

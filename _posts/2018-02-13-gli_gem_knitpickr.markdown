@@ -25,7 +25,7 @@ You can watch a video walkthrough [here](https://youtu.be/yLOXyQu1E6w).
 
 
 * **Scope of an entire project** 
-    * Looking at an entire project from start to finish was an incredibly helpful experience. We often have blinders on when working through labs, only focusing on one particular objective at a time. Don’t get me wrong - I think is approach is very beneficial when learning as it lets you focus on just the specific thing you are trying to learn, but one of the dangers of this is that you don’t always know how all of the individual pieces fit together into a cohesive program. I had lots of “*ohhhh, so THAT’s why   *”  moments that really helped solidify my understanding of class methods vs. instance methods, how objects work together, which methods should go into which class, etc. **There’s nothing like working through a project from scratch to fill in the gaps in your knowledge.**
+    * Looking at an entire project from start to finish was an incredibly helpful experience. We often have blinders on when working through labs, only focusing on one particular objective at a time. Don’t get me wrong - I think is approach is very beneficial when learning as it lets you focus on just the specific thing you are trying to learn, but one of the dangers of this is that you don’t always know how all of the individual pieces fit together into a cohesive program. I had lots of “*ohhhh, so THAT’s why*”  moments that really helped solidify my understanding of class methods vs. instance methods, how objects work together, which methods should go into which class, etc. **There’s nothing like working through a project from scratch to fill in the gaps in your knowledge.**
 
 
 * **OO**

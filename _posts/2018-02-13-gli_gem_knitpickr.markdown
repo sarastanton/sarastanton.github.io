@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "GLI Gem- Knitpickr"
+title:      "GLI Gem - Knitpickr"
 date:       2018-02-13 00:47:02 -0500
 permalink:  gli_gem_knitpickr
 ---

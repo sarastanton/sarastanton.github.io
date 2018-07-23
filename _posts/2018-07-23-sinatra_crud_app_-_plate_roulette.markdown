@@ -20,7 +20,7 @@ Users can choose from a list of main ingredients and side ingredients (or add th
 
 As I learn more and add to my skillset, I want to come back and add in a few visual and/or stylistic elements. For now, though, I’m happy with how it turned out and that it functions as intended!
 
-You can watch a video walkthrough here. ***INSERT VIDEO LINK ***
+You can watch a video walkthrough [here](https://www.youtube.com/watch?v=z7KrniUYVsw). 
 
 **WHAT I LEARNED**
 

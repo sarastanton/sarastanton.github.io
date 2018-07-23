@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra CRUD app - Plate Roulette"
-date:       2018-07-23 08:40:13 +0000
+date:       2018-07-23 04:40:14 -0400
 permalink:  sinatra_crud_app_-_plate_roulette
 ---
 
@@ -22,8 +22,7 @@ As I learn more and add to my skillset, I want to come back and add in a few vis
 
 You can watch a video walkthrough here. ***INSERT VIDEO LINK ***
 
-**WHAT I LEARNED
-**
+**WHAT I LEARNED**
 
 * **Local Environment** - I experienced quite a few issues with the Learn IDE while working on my first project, so I decided to try working on a local environment (for the first time ever!) this time around. The setup process was easier than I thought it would be, and it worked out much better for me.
  

@@ -28,7 +28,7 @@ You can watch a video walkthrough [here](https://www.youtube.com/watch?v=z7KrniU
  
 * **ActiveRecord/Sinatra** - I remember doubting whether or not the whole ORM/migrations/routes/ERB thing would ever “click” for me when I first started this module, but I GET IT NOW. Routes are basically a game of catch. ERB is like regular Ruby but with some “%” and “<“ and “=“ and “>” thrown in. Migrations change your database structure. ActiveRecord is like a bridge between your Ruby methods and your SQL database and gives you a bunch of helpful methods. 
  
-* **I  ❤️ Ruby** - So elegant. So powerful. How can you not love it?
+* **I  ❤️ Ruby** - Look at all the cool stuff it can do!
  
 * **Debugging** - The process of debugging was exponentially smoother this time around. I’m not sure if it was because I had already gone through the process of building another project, or if it was ActiveRecord magic, but at no point did I get derailed or find myself “stuck” on an issue I wasn’t sure how to fix. This doesn’t mean that I never ran into issues - I had TONS of errors throughout the course of this project - but I was able to quickly find and resolve them when they came up. My debugging toolkit consisted of the following:
 

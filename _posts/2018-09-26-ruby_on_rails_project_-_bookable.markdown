@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby on Rails project - Bookable"
-date:       2018-09-26 09:44:50 +0000
+date:       2018-09-26 05:44:51 -0400
 permalink:  ruby_on_rails_project_-_bookable
 ---
 
@@ -19,7 +19,7 @@ The domain model is based on:
 * Ratings and Reviews, which **belong to** a User and a Book; and
 * ReadStatuses, which **belong to** a User and a Book and function as a **join table** between the two (Books **have many** Users **through** ReadStatuses, and Users **have many** Books **through** ReadStatuses)
 
-Right off the bat, I had an interesting challenge in trying to figure out how different Users could track their “read status” (i.e. read or unread) on the same Book. It wouldn’t work to have a “read/unread" attribute of a specific instance of a Book because the value of the attribute for that particular Book instance would have to be different for different Users. I decided to create a join table called “ReadStatus” that could have a new instance per Book and per User.
+Right off the bat, I had an interesting challenge in trying to figure out how different Users could track their “read status” (i.e. read or unread) on the same Book. It wouldn’t work to have a “read/unread" attribute of a specific instance of a Book because the value of the attribute for that particular Book instance would have to be different for each User. I decided to create a join table called “ReadStatus” that could have a new instance per Book and per User.
 
 Routes for Reviews and Ratings are nested under Books because it would not ever make sense to have a Review or Rating that was not associated with a specific Book. Reviews and Ratings cannot exist on their own without a Book (or without a User, for that matter).
 

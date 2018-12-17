@@ -24,7 +24,7 @@ For this project, I was tasked with adding JavaScript and AJAX to my [Rails proj
 
 No small feat!
 
-You can watch a video walkthrough [here](http://).
+You can watch a video walkthrough [here](https://youtu.be/69wJBJeiaD4).
 
 
 **WHAT I LEARNED**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Bookable (Rails + JavaScript Project) "
-date:       2018-12-17 02:30:08 +0000
+title:      "Bookable (Rails JavaScript Project) "
+date:       2018-12-16 21:30:09 -0500
 permalink:  bookable_rails_javascript_project
 ---
 

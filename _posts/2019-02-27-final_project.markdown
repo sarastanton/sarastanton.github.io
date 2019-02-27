@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "FINAL PROJECT"
-date:       2019-02-27 12:12:14 +0000
+date:       2019-02-27 07:12:15 -0500
 permalink:  final_project
 ---
 
 I MADE IT!!
 
-![](http://http://gph.is/2bSopXb)
+![Finish Line](http://1dmkak43dtkvwxzekd5zqsgk8-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/finish-line.gif)
 
 I’ve finished my final project, which puts me not just at the end of the Full Stack Web Developer program but also at the beginning of my next chapter. I remember wondering  many times during the program whether or not I would be able to make it all the way through - if I actually was capable of  learning Ruby,  Sinatra, SQL, Rails, HTML, CSS, JavaScript, React, and Redux - and I am able to look back now knowing that the answer was YES. 
 

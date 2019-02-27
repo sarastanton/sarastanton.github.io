@@ -15,6 +15,8 @@ On to the project itself...
 
 For my final(!) project, I built a [meal planner](https://github.com/sarastanton/meal-planner) with CRUD functionality handled by Rails and served up with an API to the React front end. State is managed by Redux, and async calls are made with the help of Thunx middleware. I also used basic CSS and JavaScript for styling. Definitely a comprehensive project - I used nearly every skill I learned in the FSWD program!
 
+You can watch a [video walkthrough here!](https://youtu.be/hxorEF3xeL8)
+
 **WHAT I LEARNED**
 
 * **Thinking in React** - thinking of the UI in terms of components (which I tend to group into containers and cards, though this is not always how it works out) was a new concept that I actually really enjoy. If you haven’t read this short [“Thinking In React”](https://reactjs.org/docs/thinking-in-react.html) primer in the React docs, it is very much a worthwhile read.

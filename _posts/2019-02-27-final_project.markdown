@@ -5,6 +5,8 @@ date:       2019-02-27 07:12:15 -0500
 permalink:  final_project
 ---
 
+EDIT - Meal Planner is now live - check it out [here!](https://saras-meal-planner.herokuapp.com/)
+
 I MADE IT!!
 
 ![Finish Line](http://1dmkak43dtkvwxzekd5zqsgk8-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/finish-line.gif)

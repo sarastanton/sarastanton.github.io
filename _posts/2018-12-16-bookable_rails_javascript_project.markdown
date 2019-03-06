@@ -5,6 +5,8 @@ date:       2018-12-16 21:30:09 -0500
 permalink:  bookable_rails_javascript_project
 ---
 
+EDIT - Bookable is now live - check it out [here](https://saras-bookable.herokuapp.com/)!
+
 Bookable - now with 100% more JavaScript!
 
 

@@ -6,6 +6,8 @@ permalink:  sinatra_crud_app_-_plate_roulette
 ---
 
 
+EDIT - Plate Roulette is now live - check it out [here](https://plate-roulette.herokuapp.com/)!
+
 Project #2 is officially in the books!
 
 **OVERVIEW**

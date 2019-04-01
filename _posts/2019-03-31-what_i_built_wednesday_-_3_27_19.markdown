@@ -18,5 +18,6 @@ Hi friends! Here's what I worked on this week:
 
 * ***Cracking the Coding Interview***  - I also flipped through the main strategy section (as well as a few practice problems) of the popular *[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)* book.
 ​
+
 Stay calm and stay coding! I'll be back next week for another #WhatIBuilt Wednesday.
 ​
